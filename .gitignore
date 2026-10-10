@@ -1,0 +1,26 @@
+# Environment & secrets
+.env
+config.properties
+
+# Build artifacts
+target/
+*.war
+*.jar
+*.class
+
+# Logs & temp files
+*.log
+.mv.db
+.trace.db
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS specific
+.DS_Store
+Thumbs.db
